@@ -1,0 +1,17 @@
+{
+  "name": "twitter_quotes",
+  "version": "1.0.0",
+  "description": "fetch from pdfdrive and upload",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "N7K5",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.0.0",
+    "twit": "^2.2.11"
+  }
+}
